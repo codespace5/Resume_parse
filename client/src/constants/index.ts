@@ -1,0 +1,1 @@
+export const ACCESS_TOKEN = 'aps-office-access-token';

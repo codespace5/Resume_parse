@@ -1,0 +1,1 @@
+# APS Office Aministrator Application Frontend (React + TypeScript + Vite + Ant Design)
